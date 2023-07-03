@@ -1,0 +1,27 @@
+p{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+
+.imagen{
+    text-align: center;
+}
+body{
+    background-color: #755C1B;
+}
+#img1{
+   animation: anima 1s ease-in 
+}
+@keyframes anima {
+  0% { transform:translateY(-100px) }
+  50% {transform:translateY(0)}
+
+}
